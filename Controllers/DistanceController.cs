@@ -1,35 +1,36 @@
 using System;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using Grafos.Models;
 using Grafos.Services.Interfaces;
-using Microsoft.Extensions.Logging;
-
 
 namespace Grafos.Controllers
 {
     [Route("[controller]")]
     [ApiController]
-    public class RoutesController : ControllerBase
+    public class DistanceController : ControllerBase
     {
         private readonly IRouteService _routeService;
         private readonly ILogger _logger;
 
-        public  RoutesController (IRouteService routeService , ILogger<RoutesController> logger)
+        public DistanceController (IRouteService routeService, ILogger<DistanceController> logger)
         {
             _routeService = routeService;
             _logger = logger;
         }
-    
-        [HttpPost("{graphID}/from/{town1}/to/{town2}/maxStops/{maxStops}")]
-        public async Task<ActionResult> PostAsync(int graphID, string town1, string town2, int maxStops)
+
+      
+
+        [HttpPost("{graphID}/from/{town1}/to/{town2}")]
+        public async Task<ActionResult> PostAsync(int graphID, string town1, string town2)
         {
              try
             {
-                RouteList routes = await _routeService.FindRoutesByGraphID(graphID, town1, town2, maxStops );
-                if (routes.Routes.Count > 0 )
+                DistanceBetweenCities minDistance = await _routeService.FindMinimumDistanceByGraphID(graphID, town1, town2 );
+                if (minDistance.Path.Count > 0 )
                     {
-                        return Ok(routes);
+                        return Ok(minDistance);
                     }
                 else
                     {
