@@ -1,0 +1,14 @@
+C:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos.Net\bin\Debug\netcoreapp2.2\Grafos.Net.deps.json
+C:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos.Net\bin\Debug\netcoreapp2.2\Grafos.Net.runtimeconfig.json
+C:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos.Net\bin\Debug\netcoreapp2.2\Grafos.Net.runtimeconfig.dev.json
+c:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos.Net\bin\Debug\netcoreapp2.2\Grafos.Net.dll
+c:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos.Net\bin\Debug\netcoreapp2.2\Grafos.Net.pdb
+c:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos.Net\obj\Debug\netcoreapp2.2\Grafos.Net.csprojAssemblyReference.cache
+c:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos.Net\obj\Debug\netcoreapp2.2\Grafos.Net.csproj.CoreCompileInputs.cache
+c:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos.Net\obj\Debug\netcoreapp2.2\Grafos.Net.RazorAssemblyInfo.cache
+c:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos.Net\obj\Debug\netcoreapp2.2\Grafos.Net.RazorAssemblyInfo.cs
+c:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos.Net\obj\Debug\netcoreapp2.2\Grafos.Net.AssemblyInfoInputs.cache
+c:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos.Net\obj\Debug\netcoreapp2.2\Grafos.Net.AssemblyInfo.cs
+c:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos.Net\obj\Debug\netcoreapp2.2\Grafos.Net.RazorTargetAssemblyInfo.cache
+c:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos.Net\obj\Debug\netcoreapp2.2\Grafos.Net.dll
+c:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos.Net\obj\Debug\netcoreapp2.2\Grafos.Net.pdb

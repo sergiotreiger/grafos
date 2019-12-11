@@ -1,0 +1,14 @@
+C:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos\obj\Debug\netcoreapp2.2\Grafos.csprojAssemblyReference.cache
+C:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos\obj\Debug\netcoreapp2.2\Grafos.csproj.CoreCompileInputs.cache
+C:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos\obj\Debug\netcoreapp2.2\Grafos.RazorAssemblyInfo.cache
+C:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos\obj\Debug\netcoreapp2.2\Grafos.RazorAssemblyInfo.cs
+C:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos\obj\Debug\netcoreapp2.2\Grafos.AssemblyInfoInputs.cache
+C:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos\obj\Debug\netcoreapp2.2\Grafos.AssemblyInfo.cs
+C:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos\bin\Debug\netcoreapp2.2\Grafos.deps.json
+C:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos\bin\Debug\netcoreapp2.2\Grafos.runtimeconfig.json
+C:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos\bin\Debug\netcoreapp2.2\Grafos.runtimeconfig.dev.json
+C:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos\bin\Debug\netcoreapp2.2\Grafos.dll
+C:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos\bin\Debug\netcoreapp2.2\Grafos.pdb
+C:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos\obj\Debug\netcoreapp2.2\Grafos.RazorTargetAssemblyInfo.cache
+C:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos\obj\Debug\netcoreapp2.2\Grafos.dll
+C:\Users\sergio.treiger\OneDrive - RADIX ENGENHARIA E DESENVOLVIMENTO DE SOFTWARE S A (ISV)\treinamento\Grafos\obj\Debug\netcoreapp2.2\Grafos.pdb
